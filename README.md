@@ -1,4 +1,4 @@
-prostopleer
+go-api-prostopleer
 ===========
 
 Go api wrapper for pleer.com
@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	pp "github.com/t0pep0/prostopleer"
+	pp "AlexanderMartinyuk/go-api-prostopleer"
 )
 
 func main() {
